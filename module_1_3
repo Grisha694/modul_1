@@ -1,0 +1,4 @@
+name = "Grisa"
+tage =39
+new_age = 39
+is_student:True
